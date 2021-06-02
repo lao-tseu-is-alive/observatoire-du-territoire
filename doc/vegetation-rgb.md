@@ -44,7 +44,7 @@ En faisant le ratio, on enlève les erreurs atmosphériques
 
 ### Modified green–red vegetation index
 
-Indice normalisé similaire à [Normalized green red difference index](normalized-green-red-difference-index). Le carré accentue les différences ?
+Indice normalisé similaire à [Normalized green red difference index](#normalized-green-red-difference-index). Le carré accentue les différences ?
 
 
 MGRVI = (Green<sup>2</sup> – Red<sup>2</sup>) / (Green<sup>2</sup>+ Red<sup>2</sup>)
