@@ -1,7 +1,7 @@
 ## Indicateurs de végétation avec données RGB
 Comme première approche, il serait pertinent de tester avec les ortophotos RGB pour profiter de leur disponibilité régulière sur l'échelle temporelle et spatiale. Même si les ortophotos avec NIR sont plus pertinentes pour ce genre d'analyse, nous en avons malheureusement pas à disposition de manière régulière ce qui ne permet pas d'avoir une vision d'ensemble sur l'évolution temporelle de la végétation.  
 
-Les indicateurs présentés ci-dessous ont été appliqués dans la publication [Vegetation Extraction Using Visible-Bands From Openly Licensed Unmanned Aerial Vehicle Imagery](https://www.sciencedirect.com/science/article/abs/pii/S0034425701002899) qui les applique sur différentes zones géographiques afin de voir quel indicateur est le plus pertinent. Dans cette étude, le [Green Leaf Index (GLI)](#gree-leaf-index) a fournit les meilleurs résultats pour tout cas d'étude.
+Les indicateurs présentés ci-dessous ont été appliqués dans la publication [Vegetation Extraction Using Visible-Bands From Openly Licensed Unmanned Aerial Vehicle Imagery](https://www.sciencedirect.com/science/article/abs/pii/S0034425701002899) qui les applique sur différentes zones géographiques afin de voir quel indicateur est le plus pertinent. Dans cette étude, le [Green Leaf Index (GLI)](#green-leaf-index) a fournit les meilleurs résultats pour tout cas d'étude.
 
 De même, le [Triangular Greenness Index (TGI)](#triangular-greenness-index) s'est révélé efficace dans l'étude [A visible band index for remote sensing leaf chlorophyll content at the canopy scale](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=2161&context=usdaarsfacpub).
 
