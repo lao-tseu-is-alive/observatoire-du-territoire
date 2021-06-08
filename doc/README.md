@@ -1,4 +1,4 @@
-##Proposition de POC pour mettre en place un canevas de base pour un futur "Observatoire du territoire"
+## Proposition de POC pour mettre en place un canevas de base pour un futur "Observatoire du territoire"
 
 proposition de réalisation d'un POC, afin d’établir une base de réflexion pour les représentations graphiques d’un futur observatoire du territoire.
 
@@ -8,11 +8,11 @@ Pour ce faire, voici ci-dessous une liste d’indicateurs possibles parmi lesque
 
  
 
-###Indicateurs 
+### Indicateurs 
 
  
 
-####Couverture végétale 
+#### Couverture végétale 
 
 ·         Proportion étendue des forêts
 
@@ -30,7 +30,7 @@ Pour ce faire, voici ci-dessous une liste d’indicateurs possibles parmi lesque
 
  
 
-####Faune
+#### Faune
 
 ·         Connectivité habitats
 
@@ -42,7 +42,7 @@ Pour ce faire, voici ci-dessous une liste d’indicateurs possibles parmi lesque
 
  
 
-####Climat
+#### Climat
 
 ·         Ilots de chaleurs (Urban Heat Islands) : jour et nuit
 
@@ -50,7 +50,7 @@ Pour ce faire, voici ci-dessous une liste d’indicateurs possibles parmi lesque
 
  
 
-####Qualité de l’air
+#### Qualité de l’air
 
 ·         Concentration moyenne d’azote
 
@@ -58,7 +58,7 @@ Pour ce faire, voici ci-dessous une liste d’indicateurs possibles parmi lesque
 
  
 
-####Eau
+#### Eau
 
 ·         Perméabilité du sol
 
@@ -66,7 +66,7 @@ Pour ce faire, voici ci-dessous une liste d’indicateurs possibles parmi lesque
 
  
 
-####Urbanisme
+#### Urbanisme
 
 ·         Densité environnement bâti
 
