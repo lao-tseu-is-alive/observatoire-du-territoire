@@ -130,3 +130,10 @@ dmypy.json
 
 # IDE
 .idea
+/data/lausanne_ortho_2020_clipped_swissimage.tif
+/data/lausanne_ortho_2020_clipped_swissimage.tif.aux.xml
+/data/landsat/LC08_L1TP_195028_20200507_20200509_01_T1/
+/data/landsat/LC08_L1TP_195028_20200507_20200509_01_T1_01_ATMOS_CORRECTED/
+/data/swissimage-dop10_2020/
+/data/swissimage-dop10_2020.vrt
+/data/swissimage-dop10_2020/
