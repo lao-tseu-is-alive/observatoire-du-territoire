@@ -1,1 +1,0 @@
-gdalwarp -multi -wo NUM_THREADS=val/ALL_CPUS -s_srs EPSG:2056 -t_srs EPSG:2056 -of GTiff -tr 0.1 -0.1 -tap -cutline PG:dbname=observatoire host=localhost port=5432 user=observatoire password=yourpasswordhere sslmode=disable -cl public.limite_lausanne -crop_to_cutline /home/cgil/PycharmProjects/observatoire-du-territoire/data/swissimage-dop10_2020.vrt OUTPUT.tif
